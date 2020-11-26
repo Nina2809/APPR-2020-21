@@ -11,6 +11,7 @@ V svojem projektu bom analizirala poroke in razvezah v Sloveniji. Podatke bom pr
 Analizirala bom:
 
 (1) Število sklenjenih zakonskih zvez letno, ter glede na statitične regije v Sloveniji. 
+
 Tu bom obravnavala podatke med letoma 1995 in 2019, zanimalo me bo kako se število porok razlikuje glede na leta, predstavila pa bom tudi skupno število sklenjenih porok glede na posamezno regijo.
 
  TABELA 1:
@@ -22,21 +23,24 @@ https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1002S.px
 Zasnova tabele: Meritve, Leto
 
 (2) Sklenitve prvih zakonskih zvez po starosti in spolu. 
-"\n" Iz te tabele bom pridobila podatek pri kateri starosti največkrat neveste in ženini prvič vstopijo v zakonsko zvezo. Tabela podaja podatke na leto, kar mi bo omogočilo razbrati, kako se skozi leta delež porok glede na posamezne starostne skupine spreminja, omejila se bom na podatke med letoma 1990 in 2019.
+
+Iz te tabele bom pridobila podatek pri kateri starosti največkrat neveste in ženini prvič vstopijo v zakonsko zvezo. Tabela podaja podatke na leto, kar mi bo omogočilo razbrati, kako se skozi leta delež porok glede na posamezne starostne skupine spreminja, omejila se bom na podatke med letoma 1990 in 2019.
 
 TABELA 3:
 https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1004S.px/table/tableViewLayout2/
 Zasnova tabele: starostna skupina, leto, ženin/nevesta
 
 (3)Sklenitve zakonskih zvez po vrstnem redu sklenitve zakonske zveze ženina in neveste.
-"\n"S pomočjo te tabele bom pridobila podatke, katere vrste porok (glede na vrstni red) je bilo v posameznem letu največ, oz. ali je delež katerih od teh skozi leto naraščal/ padal, to bom povezala z drugim delem analize, ki se tiče razvez v Sloveniji. Omejila se bom na podatke med letoma 1990 in 2019.
+
+S pomočjo te tabele bom pridobila podatke, katere vrste porok (glede na vrstni red) je bilo v posameznem letu največ, oz. ali je delež katerih od teh skozi leto naraščal/ padal, to bom povezala z drugim delem analize, ki se tiče razvez v Sloveniji. Omejila se bom na podatke med letoma 1990 in 2019.
 
 TABELA 4:
 https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1010S.px
 Zasnova tabele: sklenitve zakonske zveze ženina/ neveste, leto
 
 (4)Osnovni podatki o razvezah zakonskih zvez, Slovenija, letno.
-"\n" Tabela zajema različne meritve razvez. Pri svoji analizi se bom omejila na število razvez zakonskih zvez z otrokom in brez, na skupno število razvez glede na leto in trajanje zakonske zveze. 
+
+Tabela zajema različne meritve razvez. Pri svoji analizi se bom omejila na število razvez zakonskih zvez z otrokom in brez, na skupno število razvez glede na leto in trajanje zakonske zveze. 
 
 
 TABELA 5: 
