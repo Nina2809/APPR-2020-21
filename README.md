@@ -27,13 +27,13 @@ TABELA 2:
 https://ec.europa.eu/eurostat/databrowser/view/demo_nind/default/table?lang=en
 Zasnova tabele: Država, Leto
 
-(2) Število sklenjenih zakonskih zvez letno, glede na statitične regije v Sloveniji
+(2) Število sklenjenih zakonskih zvez letno, glede na statistične regije v Sloveniji
 
 Predstavila bom tudi skupno število sklenjenih porok glede na posamezno regijo. Zanimalo me bo v kateri regiji je letno največ porok in ali se trend lokacije skozi leta sreminja. 
 
  TABELA 3:
 https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M2004S.px
-Zasnova tabele: Kohezijska regija, Meritve, Leto
+Zasnova tabele: Statistične regija, Meritve, Leto
 
 (3) Sklenitve prvih zakonskih zvez po starosti in spolu. 
 
@@ -59,15 +59,15 @@ https://data.unicef.org/topic/child-protection/child-marriage/
 
 S pomočjo te tabele bom pridobila podatke, katere vrste porok (glede na vrstni red) je bilo v posameznem letu največ, oz. ali je delež katerih od teh skozi leto naraščal/ padal. Omejila se bom na podatke med letoma 1990 in 2019.
 
-TABELA 5:
+TABELA 8:
 https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1010S.px
 Zasnova tabele: sklenitve zakonske zveze ženina/ neveste, leto
 
-(4)Osnovni podatki o razvezah zakonskih zvez, Slovenija, letno.
+(5)Osnovni podatki o razvezah zakonskih zvez, Slovenija, letno.
 
 Tabela zajema različne meritve razvez. Pri svoji analizi se bom omejila na število razvez zakonskih zvez z otrokom in brez in na skupno število razvez glede na leto.
 
-TABELA 6: 
+TABELA 9: 
 https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M3002S.px
 Zasnova tabele: leto, meritve
 
