@@ -40,7 +40,7 @@ Zasnova tabele: Kohezijska regija, Meritve, Leto
 (3.1) Iz tabele 4 bom pridobila podatek pri kateri starosti največkrat neveste in ženini prvič vstopijo v zakonsko zvezo. Tabela podaja podatke na leto, kar mi bo omogočilo razbrati, kako se skozi leta delež porok glede na posamezne starostne skupine spreminja, omejila se bom na podatke med letoma 1990 in 2019. Poleg te tabele sem na spletu zasledila tudi tabelo, ki vsebuje povprečno starost mladoporočencev drugod po svetu, te podatke bom primerjala s podatki v Sloveniji, zanimalo me bo predvsem kakšna so odstopanja v različnih državah. 
 
 TABELA 4:
-https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1004S.px/table/tableViewLayout2/
+https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1016S.px
 Zasnova tabele: starostna skupina, leto, ženin/nevesta
 
 TABELA 5:
@@ -57,7 +57,7 @@ https://data.unicef.org/topic/child-protection/child-marriage/
 
 (4)Sklenitve zakonskih zvez po vrstnem redu sklenitve zakonske zveze ženina in neveste.
 
-S pomočjo te tabele bom pridobila podatke, katere vrste porok (glede na vrstni red) je bilo v posameznem letu največ, oz. ali je delež katerih od teh skozi leto naraščal/ padal, to bom povezala z drugim delom analize, ki se tiče razvez v Sloveniji. Omejila se bom na podatke med letoma 1990 in 2019.
+S pomočjo te tabele bom pridobila podatke, katere vrste porok (glede na vrstni red) je bilo v posameznem letu največ, oz. ali je delež katerih od teh skozi leto naraščal/ padal. Omejila se bom na podatke med letoma 1990 in 2019.
 
 TABELA 5:
 https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1010S.px
