@@ -6,10 +6,12 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=rstudio) RStudio
 
 ## Tematika
+
 V svojem projektu bom analizirala poroke in razveze v Sloveniji. Nekatere pridobljene podatke, bom primerjala tudi z Evropskimi.
+
 Viri podatkov:
 * Statistični urad Republike Slovenije (https://pxweb.stat.si/SiStat/sl/Podrocja/Index/100/prebivalstvo) in 
-* EUROSTAT (https://ec.europa.eu/eurostat/home?)
+* EUROSTAT (https://ec.europa.eu/eurostat/home)
 
 Analizirala bom:
 
@@ -40,8 +42,10 @@ Zasnova tabele: Kohezijska regija, Meritve, Leto
 TABELA 4:
 https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1004S.px/table/tableViewLayout2/
 Zasnova tabele: starostna skupina, leto, ženin/nevesta
+
 TABELA 5:
 https://ec.europa.eu/eurostat/databrowser/view/tps00014/default/table?lang=en (od leta 2007 do 2018)
+
 TABELA 6:
 https://en.wikipedia.org/wiki/List_of_countries_by_age_at_first_marriage (od leta 2008 do 2019)
 
@@ -53,7 +57,7 @@ https://data.unicef.org/topic/child-protection/child-marriage/
 
 (4)Sklenitve zakonskih zvez po vrstnem redu sklenitve zakonske zveze ženina in neveste.
 
-S pomočjo te tabele bom pridobila podatke, katere vrste porok (glede na vrstni red) je bilo v posameznem letu največ, oz. ali je delež katerih od teh skozi leto naraščal/ padal, to bom povezala z drugim delem analize, ki se tiče razvez v Sloveniji. Omejila se bom na podatke med letoma 1990 in 2019.
+S pomočjo te tabele bom pridobila podatke, katere vrste porok (glede na vrstni red) je bilo v posameznem letu največ, oz. ali je delež katerih od teh skozi leto naraščal/ padal, to bom povezala z drugim delom analize, ki se tiče razvez v Sloveniji. Omejila se bom na podatke med letoma 1990 in 2019.
 
 TABELA 5:
 https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/05M1010S.px
